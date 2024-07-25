@@ -72,4 +72,4 @@ inputElement.addEventListener('input', function(e){
   render(filteredUsers)
 })
 
-getUsers(0)
+getUsers(2000)
