@@ -13,5 +13,5 @@ The simple application which gets users from server. You can filter users by nam
   <li>JS</li>
 </ul>
 
-<a href="https://roman-kachura.github.io/users-list/">See deployed application</a>
+<a target="_blank" href="https://roman-kachura.github.io/users-list/">See deployed application</a>
 
